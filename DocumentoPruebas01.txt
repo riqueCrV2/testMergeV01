@@ -20,3 +20,9 @@ ishing packages and web page editors now use Lorem Ipsum as their default mode
 l text, and a search for 'lorem ipsum' will uncover many web sites still in th
 eir infancy. Various versions have evolved over the years, sometimes by accid
 ent, sometimes on purpose (injected humour and the like).
+
+DESDE RAMA 02
+Me da risa como los fachos pasaron de 
+"los constituyentes no han hecho nada" 
+a "los constituyentes están cambiando todo",
+ con una semana de diferencia.
